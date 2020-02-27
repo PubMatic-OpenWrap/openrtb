@@ -1,4 +1,4 @@
-module github.com/mxmCherry/openrtb
+module github.com/PubMatic-OpenWrap/openrtb
 
 go 1.12
 
